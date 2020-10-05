@@ -1,0 +1,16 @@
+:root{
+    --colorText: #49454567;
+}
+
+*, ::before,::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  
+    background: linear-gradient(to right, #0f3443, #34e89e); 
+    font-family: 'Anton', sans-serif;
+}
+
